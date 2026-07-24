@@ -1,0 +1,15 @@
+FileName,DataRows,SizeBytes
+Customers.csv,10100,905359
+Freight.csv,100000,4961436
+Inventory.csv,120000,6656271
+OrderItems.csv,300000,16575741
+Orders.csv,100000,8317257
+Payments.csv,100000,5555303
+PricingHistory.csv,45000,2603914
+Products.csv,3000,218618
+Regions.csv,5,89
+Returns.csv,12000,892127
+SalesRepresentatives.csv,200,10766
+Shipments.csv,100000,7459249
+Suppliers.csv,250,10223
+Warehouses.csv,40,2867

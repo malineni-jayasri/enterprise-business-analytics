@@ -1,0 +1,13 @@
+File,Column,Business Definition,Data Type
+Customers.csv,CustomerID,Customer key; controlled duplicates use different IDs,Text
+Customers.csv,CustomerName,Customer or company name; may contain spaces/case issues,Text
+Products.csv,StandardCost,Current standard acquisition cost,Decimal
+Products.csv,ListPrice,Published selling price before discounts,Decimal
+Orders.csv,OrderDate,Order creation date; a small number use MM/DD/YYYY,Date/Text
+OrderItems.csv,DiscountPct,Line-level discount; some values are intentionally blank,Decimal
+OrderItems.csv,LineRevenue,Quantity × unit price × (1-discount),Decimal
+OrderItems.csv,LineCost,Quantity × standard cost,Decimal
+Freight.csv,FreightCost,Order-level shipping cost,Decimal
+Returns.csv,ReturnReason,Customer-service return reason,Text
+Payments.csv,OutstandingBalance,Uncollected order balance,Decimal
+Inventory.csv,StockStatus,"In Stock, Low Stock, or Stockout",Text
