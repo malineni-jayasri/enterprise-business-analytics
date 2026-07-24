@@ -1,0 +1,201 @@
+SalesRepID,SalesRepName,RegionID,HireDate,RoleLevel,Status
+SR0001,Jaya Smith,R01,2022-07-01,Senior,Active
+SR0002,Olivia Johnson,R02,2019-04-23,Senior,Active
+SR0003,Neha Williams,R03,2018-04-02,Junior,Active
+SR0004,Michael Malineni,R04,2020-02-07,Account Executive,Active
+SR0005,Sarah Malineni,R05,2019-01-21,Junior,Active
+SR0006,Mia Malineni,R01,2025-03-31,Senior,Active
+SR0007,Lucas Reddy,R02,2019-10-19,Junior,Active
+SR0008,Jaya Johnson,R03,2017-07-30,Junior,Active
+SR0009,Ravi Shah,R04,2025-01-08,Account Executive,Active
+SR0010,Priya Johnson,R05,2024-11-12,Senior,Active
+SR0011,Ava Jones,R01,2022-01-06,Junior,Active
+SR0012,Jaya Davis,R02,2023-07-18,Account Executive,Active
+SR0013,Mia Thomas,R03,2020-04-09,Account Executive,Active
+SR0014,Priya Johnson,R04,2023-07-27,Junior,Active
+SR0015,Daniel Smith,R05,2022-12-12,Account Executive,Active
+SR0016,Arjun Malineni,R01,2022-11-03,Junior,Active
+SR0017,Noah Patel,R02,2025-03-28,Senior,Active
+SR0018,Lucas Patel,R03,2020-07-30,Junior,Active
+SR0019,Olivia Smith,R04,2016-06-01,Senior,Active
+SR0020,Daniel Johnson,R05,2017-02-02,Junior,Active
+SR0021,Michael Williams,R01,2020-05-10,Senior,Active
+SR0022,Priya Patel,R02,2024-05-01,Account Executive,Active
+SR0023,Michael Miller,R03,2022-08-02,Account Executive,Active
+SR0024,Olivia Malineni,R04,2020-08-26,Account Executive,Active
+SR0025,Emma Shah,R05,2021-06-27,Account Executive,Active
+SR0026,Neha Jones,R01,2016-05-14,Account Executive,Active
+SR0027,Priya Brown,R02,2020-12-21,Senior,Active
+SR0028,Sophia Shah,R03,2020-01-25,Junior,Active
+SR0029,Priya Anderson,R04,2023-03-26,Senior,Active
+SR0030,Liam Miller,R05,2019-02-04,Junior,Active
+SR0031,Emma Shah,R01,2025-03-29,Senior,Active
+SR0032,Noah Patel,R02,2018-05-18,Account Executive,Active
+SR0033,Ava Smith,R03,2024-10-27,Senior,Active
+SR0034,Sophia Williams,R04,2024-10-28,Account Executive,Active
+SR0035,Ethan Johnson,R05,2025-04-21,Account Executive,Active
+SR0036,Ethan Thomas,R01,2018-06-03,Junior,Active
+SR0037,Arjun Kumar,R02,2017-08-27,Account Executive,Active
+SR0038,Ava Jones,R03,2017-08-15,Junior,Active
+SR0039,Michael Jones,R04,2024-12-14,Junior,Active
+SR0040,Emma Patel,R05,2016-04-15,Junior,Active
+SR0041,Ava Davis,R01,2024-11-09,Junior,Active
+SR0042,Arjun Smith,R02,2017-12-14,Senior,Active
+SR0043,Liam Williams,R03,2024-04-26,Senior,Active
+SR0044,Sarah Johnson,R04,2024-05-12,Junior,Active
+SR0045,Daniel Wilson,R05,2024-09-21,Senior,Active
+SR0046,Sarah Thomas,R01,2017-03-22,Senior,Active
+SR0047,Sarah Brown,R02,2022-11-24,Junior,Active
+SR0048,Sarah Jones,R03,2021-02-19,Account Executive,Active
+SR0049,Ava Smith,R04,2021-05-15,Senior,Active
+SR0050,Neha Patel,R05,2017-03-18,Senior,Active
+SR0051,Jaya Johnson,R01,2016-11-26,Senior,Active
+SR0052,Olivia Johnson,R02,2017-05-31,Senior,Active
+SR0053,Michael Reddy,R03,2019-08-24,Senior,Active
+SR0054,Sarah Jones,R04,2021-02-01,Account Executive,Active
+SR0055,Neha Johnson,R05,2024-11-22,Account Executive,Active
+SR0056,Emma Shah,R01,2023-05-05,Account Executive,Active
+SR0057,Michael Reddy,R02,2018-05-30,Senior,Active
+SR0058,Jaya Malineni,R03,2018-07-24,Senior,Active
+SR0059,Arjun Shah,R04,2021-01-31,Senior,Active
+SR0060,Neha Reddy,R05,2017-01-24,Senior,Active
+SR0061,Neha Davis,R01,2023-06-17,Senior,Active
+SR0062,Priya Williams,R02,2023-09-14,Senior,Active
+SR0063,Noah Johnson,R03,2016-12-15,Junior,Active
+SR0064,Neha Johnson,R04,2024-05-07,Account Executive,Active
+SR0065,Priya Kumar,R05,2017-06-16,Account Executive,Active
+SR0066,Liam Thomas,R01,2022-04-19,Account Executive,Active
+SR0067,Arjun Patel,R02,2017-05-15,Senior,Active
+SR0068,Priya Shah,R03,2023-06-18,Senior,Active
+SR0069,Liam Jones,R04,2022-09-25,Senior,Active
+SR0070,Priya Johnson,R05,2022-06-25,Account Executive,Active
+SR0071,Ethan Williams,R01,2023-05-13,Senior,Active
+SR0072,Sophia Shah,R02,2017-03-19,Senior,Active
+SR0073,Michael Davis,R03,2017-04-15,Senior,Active
+SR0074,Sophia Kumar,R04,2020-10-23,Account Executive,Active
+SR0075,Michael Smith,R05,2022-10-30,Account Executive,Active
+SR0076,Mia Smith,R01,2018-01-08,Senior,Active
+SR0077,Lucas Malineni,R02,2019-10-23,Senior,Active
+SR0078,Ava Williams,R03,2017-08-09,Account Executive,Active
+SR0079,Ravi Johnson,R04,2017-08-04,Account Executive,Active
+SR0080,Ava Johnson,R05,2024-05-14,Account Executive,Active
+SR0081,Ethan Miller,R01,2020-09-15,Senior,Active
+SR0082,Arjun Williams,R02,2020-02-24,Senior,Active
+SR0083,Arjun Kumar,R03,2022-05-13,Account Executive,Active
+SR0084,Noah Malineni,R04,2016-08-03,Junior,Active
+SR0085,Mason Kumar,R05,2022-12-05,Junior,Active
+SR0086,Noah Jones,R01,2020-12-19,Account Executive,Active
+SR0087,Neha Wilson,R02,2022-10-22,Senior,Active
+SR0088,Neha Jones,R03,2018-06-01,Account Executive,Active
+SR0089,Emma Davis,R04,2020-10-26,Junior,Active
+SR0090,Lucas Patel,R05,2023-08-11,Account Executive,Active
+SR0091,Daniel Anderson,R01,2023-06-25,Senior,Active
+SR0092,Liam Brown,R02,2020-06-06,Account Executive,Active
+SR0093,Liam Smith,R03,2018-04-17,Senior,Active
+SR0094,Ethan Kumar,R04,2017-07-16,Senior,Active
+SR0095,Lucas Davis,R05,2017-05-06,Junior,Active
+SR0096,Daniel Reddy,R01,2020-10-29,Junior,Active
+SR0097,Olivia Miller,R02,2021-12-21,Account Executive,Active
+SR0098,Sophia Anderson,R03,2022-04-07,Account Executive,Active
+SR0099,Priya Johnson,R04,2020-06-14,Account Executive,Active
+SR0100,Liam Miller,R05,2016-03-17,Senior,Active
+SR0101,Noah Shah,R01,2019-07-06,Account Executive,Active
+SR0102,Neha Thomas,R02,2020-07-14,Account Executive,Active
+SR0103,Neha Jones,R03,2017-04-16,Senior,Active
+SR0104,Ava Davis,R04,2017-12-04,Account Executive,Active
+SR0105,Jaya Shah,R05,2023-09-25,Senior,Active
+SR0106,Noah Miller,R01,2017-03-09,Junior,Active
+SR0107,Neha Thomas,R02,2020-06-28,Account Executive,Active
+SR0108,Noah Miller,R03,2019-06-24,Account Executive,Active
+SR0109,Arjun Brown,R04,2019-09-26,Junior,Active
+SR0110,Noah Anderson,R05,2023-02-06,Junior,Active
+SR0111,Sarah Anderson,R01,2018-03-05,Senior,Active
+SR0112,Priya Reddy,R02,2025-03-08,Account Executive,Active
+SR0113,Olivia Brown,R03,2017-02-25,Junior,Active
+SR0114,Mia Brown,R04,2017-12-11,Account Executive,Active
+SR0115,Olivia Kumar,R05,2024-07-06,Account Executive,Active
+SR0116,Noah Williams,R01,2024-08-31,Account Executive,Active
+SR0117,Daniel Wilson,R02,2024-06-17,Account Executive,Active
+SR0118,Jaya Patel,R03,2022-05-01,Account Executive,Active
+SR0119,Arjun Shah,R04,2023-01-13,Senior,Active
+SR0120,Olivia Wilson,R05,2016-10-06,Senior,Active
+SR0121,Jaya Patel,R01,2019-05-25,Senior,Active
+SR0122,Liam Davis,R02,2021-09-09,Junior,Active
+SR0123,Lucas Wilson,R03,2021-01-25,Junior,Active
+SR0124,Liam Davis,R04,2019-03-21,Junior,Active
+SR0125,Noah Thomas,R05,2022-08-30,Account Executive,Active
+SR0126,Ravi Wilson,R01,2022-07-05,Account Executive,Active
+SR0127,Liam Wilson,R02,2025-01-30,Account Executive,Active
+SR0128,Ethan Davis,R03,2022-10-14,Senior,Active
+SR0129,Sarah Williams,R04,2016-09-10,Senior,Active
+SR0130,Emma Kumar,R05,2019-11-07,Account Executive,Active
+SR0131,Noah Anderson,R01,2023-03-31,Junior,Active
+SR0132,Liam Brown,R02,2023-12-08,Senior,Active
+SR0133,Jaya Anderson,R03,2021-11-11,Account Executive,Active
+SR0134,Mason Davis,R04,2020-03-07,Senior,Active
+SR0135,Ravi Miller,R05,2024-09-07,Senior,Active
+SR0136,Liam Kumar,R01,2023-01-28,Account Executive,Active
+SR0137,Arjun Johnson,R02,2019-09-12,Junior,Active
+SR0138,Michael Patel,R03,2020-05-02,Senior,Active
+SR0139,Mia Reddy,R04,2023-05-13,Account Executive,Active
+SR0140,Olivia Davis,R05,2016-11-29,Account Executive,Active
+SR0141,Olivia Malineni,R01,2019-12-03,Senior,Active
+SR0142,Ravi Williams,R02,2022-09-03,Account Executive,Active
+SR0143,Noah Jones,R03,2022-04-08,Senior,Active
+SR0144,Arjun Shah,R04,2017-06-07,Account Executive,Active
+SR0145,Sarah Johnson,R05,2023-03-31,Account Executive,Active
+SR0146,Neha Anderson,R01,2020-01-22,Junior,Active
+SR0147,Priya Jones,R02,2018-01-08,Junior,Active
+SR0148,Arjun Kumar,R03,2021-06-14,Junior,Active
+SR0149,Sophia Williams,R04,2017-09-26,Junior,Active
+SR0150,Lucas Shah,R05,2024-11-02,Junior,Active
+SR0151,Sarah Kumar,R01,2022-01-19,Account Executive,Active
+SR0152,Sarah Smith,R02,2023-06-04,Senior,Active
+SR0153,Olivia Thomas,R03,2020-03-23,Junior,Active
+SR0154,Mason Williams,R04,2023-10-08,Account Executive,Active
+SR0155,Mason Reddy,R05,2020-11-27,Junior,Active
+SR0156,Neha Davis,R01,2023-08-02,Account Executive,Active
+SR0157,Sophia Wilson,R02,2022-11-05,Senior,Active
+SR0158,Jaya Brown,R03,2021-12-27,Junior,Active
+SR0159,Lucas Kumar,R04,2024-10-17,Senior,Active
+SR0160,Ethan Davis,R05,2023-08-10,Account Executive,Active
+SR0161,Jaya Wilson,R01,2024-08-17,Senior,Active
+SR0162,Ravi Anderson,R02,2021-11-30,Senior,Active
+SR0163,Mason Shah,R03,2018-03-28,Account Executive,Active
+SR0164,Olivia Shah,R04,2018-10-21,Junior,Active
+SR0165,Daniel Shah,R05,2020-02-29,Account Executive,Active
+SR0166,Emma Reddy,R01,2021-10-14,Junior,Active
+SR0167,Lucas Johnson,R02,2024-07-22,Junior,Active
+SR0168,Mia Wilson,R03,2021-10-03,Junior,Active
+SR0169,Neha Johnson,R04,2018-06-28,Senior,Active
+SR0170,Priya Malineni,R05,2016-04-19,Senior,Active
+SR0171,Liam Miller,R01,2021-08-18,Senior,Active
+SR0172,Sophia Miller,R02,2016-11-30,Senior,Active
+SR0173,Sophia Smith,R03,2019-07-29,Junior,Active
+SR0174,Arjun Kumar,R04,2017-08-21,Junior,Active
+SR0175,Liam Jones,R05,2025-04-21,Senior,Active
+SR0176,Olivia Kumar,R01,2023-11-29,Senior,Active
+SR0177,Jaya Thomas,R02,2016-01-22,Junior,Active
+SR0178,Ava Jones,R03,2018-06-02,Junior,Active
+SR0179,Michael Reddy,R04,2022-10-29,Account Executive,Active
+SR0180,Neha Johnson,R05,2024-09-14,Senior,Active
+SR0181,Sophia Jones,R01,2017-05-14,Junior,Active
+SR0182,Sophia Miller,R02,2023-03-02,Account Executive,Active
+SR0183,Jaya Johnson,R03,2017-03-30,Senior,Active
+SR0184,Michael Smith,R04,2023-02-01,Account Executive,Active
+SR0185,Sophia Reddy,R05,2017-08-11,Senior,Active
+SR0186,Neha Smith,R01,2022-11-23,Senior,Active
+SR0187,Sophia Thomas,R02,2020-09-02,Junior,Active
+SR0188,Noah Anderson,R03,2020-01-17,Junior,Active
+SR0189,Sarah Anderson,R04,2021-09-09,Account Executive,Active
+SR0190,Michael Smith,R05,2020-05-18,Senior,Active
+SR0191,Liam Patel,R01,2020-05-03,Senior,Active
+SR0192,Mia Reddy,R02,2016-03-07,Senior,Active
+SR0193,Noah Davis,R03,2018-09-14,Account Executive,Active
+SR0194,Emma Kumar,R04,2022-07-11,Account Executive,Active
+SR0195,Arjun Williams,R05,2016-06-30,Senior,Active
+SR0196,Michael Davis,R01,2025-02-14,Account Executive,Active
+SR0197,Mason Shah,R02,2024-09-26,Account Executive,Active
+SR0198,Jaya Reddy,R03,2021-05-14,Account Executive,Active
+SR0199,Mason Kumar,R04,2017-07-06,Junior,Active
+SR0200,Jaya Smith,R05,2019-04-16,Junior,Active
